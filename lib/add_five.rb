@@ -1,3 +1,3 @@
-def add_num(num)
+def add_five(num)
     return num + 5
 end
